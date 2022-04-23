@@ -1,4 +1,4 @@
-from gtts import gTTS
+from gtts import gTTs
 import os
 
 abc = open('sample.txt')
